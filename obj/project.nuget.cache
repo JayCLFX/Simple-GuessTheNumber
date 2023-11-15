@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YdTAf3e6P6Fu4rCGrObaF2TCwL33H4TpwXXGomybtf2il//zLyTD8KIYxjIqmCQ9xALTT5VSpgIACUQHBxeurw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JayC\\source\\repos\\GuesstheNumber\\GuesstheNumber\\GuesstheNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JayC\\.nuget\\packages\\fare\\2.2.0\\fare.2.2.0.nupkg.sha512",
+    "C:\\Users\\JayC\\.nuget\\packages\\randomdatagenerator.net\\1.0.17\\randomdatagenerator.net.1.0.17.nupkg.sha512",
+    "C:\\Users\\JayC\\.nuget\\packages\\stef.validation\\0.1.0\\stef.validation.0.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
